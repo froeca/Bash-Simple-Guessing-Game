@@ -3,7 +3,7 @@
 
 **Class**: The Unix Workbench
 
-**README.md written**: 2021-11-22 at 13:06:17
+**Updated**: 2021-11-22 at 13:15:00
 
 **About**: A simple guessing game written in UNIX bash to determine the # of files in the directory where the program is run.
 
