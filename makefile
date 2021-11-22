@@ -5,7 +5,7 @@ README.md: guessinggame.sh
 	echo "**Class**: The Unix Workbench\n" >> README.md
 	date "+**README.md written**: %Y-%m-%d at %H:%M:%S" >> README.md
 	echo "\n**About**: A simple guessing game written in UNIX bash to determine the # of files in the directory where the program is run.\n" >> README.md
-	echo "Number of lines in guessing game.sh: $(shell cat guessinggame.sh | wc -l | bc -l)" >> README.md
+	echo "**Size of guessinggame.sh**: $(shell cat guessinggame.sh | wc -l | bc -l) lines" >> README.md
 
 clean:
 	rm README.md

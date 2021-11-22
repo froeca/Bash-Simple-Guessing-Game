@@ -3,8 +3,8 @@
 
 **Class**: The Unix Workbench
 
-**README.md written**: 2021-11-22 at 13:03:30
+**README.md written**: 2021-11-22 at 13:06:17
 
 **About**: A simple guessing game written in UNIX bash to determine the # of files in the directory where the program is run.
 
-Number of lines in guessing game.sh: 31
+**Size of guessinggame.sh**: 31 lines
